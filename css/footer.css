@@ -1,0 +1,43 @@
+
+footer {
+    padding-top: 15px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    gap: 10px;
+}
+.board-key {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    gap: 10px;
+}
+
+.board-keyboard{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    width: 50px;
+    height: 70px;
+    background-color: #d3d6da;
+    gap: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.board-keyboard-etc{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    width: 80px;
+    height: 70px;
+    gap: 10px;
+    font-size: 20px;
+    background-color: #d3d6da;
+    font-weight: bold;
+    justify-content: center;
+    border-radius: 10px;
+}
