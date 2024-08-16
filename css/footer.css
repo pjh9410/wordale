@@ -7,14 +7,14 @@ footer {
     justify-items: center;
     gap: 10px;
 }
-.board-key {
+.keyboard-row {
     display: flex;
     align-items: center;
     justify-items: center;
     gap: 10px;
 }
 
-.board-keyboard{
+.keyboard-column{
     display: flex;
     align-items: center;
     justify-items: center;
@@ -28,7 +28,7 @@ footer {
     border-radius: 10px;
 }
 
-.board-keyboard-etc{
+.keyboard-column wide{
     display: flex;
     align-items: center;
     justify-items: center;
